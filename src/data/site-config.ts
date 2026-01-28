@@ -3,13 +3,13 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://temsuo.github.io',
     avatar: {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'JoaquiMedina',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'JJ',
+    subtitle: 'Psico',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
