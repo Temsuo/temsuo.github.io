@@ -6,7 +6,7 @@ import siteConfig from './src/data/site-config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'http://temsuo.github.io',
+    site: 'https://temsuo.github.io',
     vite: {
         plugins: [tailwindcss()]
     },
